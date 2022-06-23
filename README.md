@@ -1,4 +1,4 @@
-I am a [Go](https://github.com/golang/golang) developer and the author of:
+I am a [Go](https://github.com/golang/go) developer and the author of:
 
 - [Concurrenthash](https://github.com/kmulvey/concurrenthash) - Merkle tree for hashing large files 
 - [Imageconvert](https://github.com/kmulvey/imageconvert) - Convert and compress large libraries on images
