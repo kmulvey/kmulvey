@@ -6,3 +6,4 @@ I am a [Go](https://github.com/golang/go) developer and the author of:
 - [Imageupsizer](https://github.com/kmulvey/imageupsizer) - Image up-scaling by using google image search 
 - [Text2speech](https://github.com/kmulvey/text2speech) - Convert text to speech using AWS Polly.
 - [Humannumbers](https://github.com/kmulvey/humannumbers) - Convert numbers in English text to float64
+- [Humantime](https://github.com/kmulvey/humantime) - Convert English phrases to Go time.Time{}
