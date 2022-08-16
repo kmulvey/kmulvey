@@ -7,3 +7,4 @@ I am a [Go](https://github.com/golang/go) developer and the author of:
 - [Text2speech](https://github.com/kmulvey/text2speech) - Convert text to speech using AWS Polly.
 - [Humannumbers](https://github.com/kmulvey/humannumbers) - Convert numbers in English text to float64
 - [Humantime](https://github.com/kmulvey/humantime) - Convert English phrases to Go time.Time{}
+- [Path](https://github.com/kmulvey/path) - A simple library to handle file path input
