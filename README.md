@@ -12,8 +12,6 @@ I am a [Go](https://github.com/golang/go) developer and the author of:
 
 ## &#x1f4c8; GitHub Stats
 
-![visitors](https://visitor-badge.glitch.me/badge?style=for-the-badge&page_id=kmulvey)
-
 <a href="https://github.com/kmulvey/kmulvey">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmulvey&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
